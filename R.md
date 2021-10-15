@@ -9,8 +9,8 @@ library(tidyverse)
 # Load word vectors in Word2Vec format
 ```
 #load data using tidyverse functions
-embeddings 	<- read_table("FILEPATH HERE", skip = 1, col_names = FALSE)
-df 		<- as.data.frame(embeddings)
+myvecs 		<- read_table("FILEPATH HERE", skip = 1, col_names = FALSE)
+mydf 		<- as.data.frame(myvecs)
 ```
 
 
@@ -32,14 +32,14 @@ mycols <- c(
 
 # Filter preferred vocabularies
 ```
-df_select <-	filter(df, df[,1] %in% mycols)
+mydf_select <-	filter(mydf, mydf[,1] %in% mycols)
 ```
 
 
 
 # Prepare data for pca
 ```
-forpca <-	myselect %>%
+forpca <-	mydf_select %>%
 		dplyr::select(-X1) %>%
 		as.data.frame()
 ```
