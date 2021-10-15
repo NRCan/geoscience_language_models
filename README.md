@@ -19,7 +19,7 @@ Contextual language models, including the Bidirectional Encoder Representations 
 
 
 
-### Figure 1
+## Example Application
 Principal component analysis (PCA) biplot of mineral names colour coded to the Dana classification scheme. Results are based on the preferred GloVE model. Minerals with similar classifications plot together in PCA space, reflecting similar vector properties (e.g., silicates versus sulphides). At least some of the 1,893 matching mineral names are likely beyond the vocabulary of a typical geologist. As a result, word embeddings provide a powerful framework for evaluating and predicting mineral groups based on thousands of observations in nature from multiple trained observers over time.
 
 
