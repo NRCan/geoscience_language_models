@@ -32,14 +32,14 @@ mycols <- c(
 
 # Filter preferred vocabularies
 ```
-mydf_select <-	filter(mydf, mydf[,1] %in% mycols)
+mydf_filter <-	filter(mydf, mydf[,1] %in% mycols)
 ```
 
 
 
 # Prepare data for pca
 ```
-forpca <-	mydf_select %>%
+forpca <-	mydf_filter %>%
 		dplyr::select(-X1) %>%
 		as.data.frame()
 ```
