@@ -1,4 +1,4 @@
-#Load libraries
+# Load libraries
 '''
 #load libraries
 library(tidyverse)
@@ -6,7 +6,7 @@ library(tidyverse)
 
 
 
-#Load word vectors in Word2Vec format
+# Load word vectors in Word2Vec format
 '''
 #load data using tidyverse functions
 embeddings 	<- read_table("FILEPATH HERE", skip = 1, col_names = FALSE)
@@ -15,7 +15,7 @@ df 		<- as.data.frame(embeddings)
 
 
 
-#Create a list of vocabularies to filter
+# Create a list of vocabularies to filter
 '''
 mycols <- c(
 "claystone",
@@ -30,14 +30,14 @@ mycols <- c(
 
 
 
-#Filter preferred vocabularies
+# Filter preferred vocabularies
 '''
 df_select <-	filter(df, df[,1] %in% mycols)
 '''
 
 
 
-#Prepare data for pca
+# Prepare data for pca
 '''
 forpca <-	myselect %>%
 		dplyr::select(-X1) %>%
@@ -46,7 +46,7 @@ forpca <-	myselect %>%
 
 
 
-#Calculate PCA
+# Calculate PCA
 
 '''
 mypca <-	prcomp(forpca) 
