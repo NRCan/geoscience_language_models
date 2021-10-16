@@ -24,7 +24,7 @@ Principal component analysis (PCA) biplot of mineral names colour coded to the D
 
 
 
-![Figure](https://github.com/NRCan/Geological_Language_Models/blob/45fdb031ea117a480a711dc75c867e8feb26bfb7/2021_GEOSCAN_Minerals_v01-01.jpg)
+![Figure](https://github.com/NRCan/Geological_Language_Models/blob/a8e3a23ae3e6f529dbb4bcc4fab1774ddaa530e4/Figure01.jpg)
 
 
 
