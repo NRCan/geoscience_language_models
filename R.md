@@ -17,15 +17,7 @@ mydf 		<- as.data.frame(myvecs)
 
 # Create a list of vocabularies to filter
 ```
-mycols <- c(
-"claystone",
-"clay",
-"sandstone",
-"sand",
-"silt",
-"siltstone",
-"gravel",
-"conglomerate")
+mycols <- c("claystone", "clay", "sandstone", "sand", "silt", "siltstone", "gravel", "conglomerate")
 ```
 
 
