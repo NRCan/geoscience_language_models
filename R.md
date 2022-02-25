@@ -17,14 +17,14 @@ mydf 		<- as.data.frame(myvecs)
 
 # Create a list of vocabularies to filter
 ```
-mycols <- c("claystone", "clay", "sandstone", "sand", "silt", "siltstone", "gravel", "conglomerate")
+myvocab <- c("claystone", "clay", "sandstone", "sand", "silt", "siltstone", "gravel", "conglomerate")
 ```
 
 
 
 # Filter preferred vocabularies
 ```
-mydf_filter <-	filter(mydf, mydf[,1] %in% mycols)
+mydf_filter <-	filter(mydf, mydf[,1] %in% myvocab)
 ```
 
 
