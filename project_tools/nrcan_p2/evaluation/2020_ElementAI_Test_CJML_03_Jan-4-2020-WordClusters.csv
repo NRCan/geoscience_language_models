@@ -1,0 +1,901 @@
+Cluster,Word
+Alteration types,argillic
+Alteration types,albitic
+Alteration types,alunitic
+Alteration types,calcsilicate
+Alteration types,carbonate
+Alteration types,chloritic
+Alteration types,deuteric
+Alteration types,epidote
+Alteration types,greisen
+Alteration types,hematitic
+Alteration types,kaolinitic
+Alteration types,potassic
+Alteration types,propylitic
+Alteration types,pyritic
+Alteration types,saussuritised
+Alteration types,sericitic
+Alteration types,serpentinisation
+Alteration types,silicification
+Alteration types,uralitisation
+Alteration types,zeolitic
+Compositions,argillic
+Compositions,arkosic
+Compositions,bioclastic
+Compositions,calcareous
+Compositions,calcsilicate
+Compositions,carbonaceous
+Compositions,carbonate
+Compositions,chloritic
+Compositions,dolomitic
+Compositions,feldspathic
+Compositions,ferromagnesian
+Compositions,ferruginous
+Compositions,lithic
+Compositions,mafic
+Compositions,metaluminous
+Compositions,micaceous
+Compositions,monomictic
+Compositions,oxide
+Compositions,pelitic
+Compositions,peralkaline
+Compositions,peraluminous
+Compositions,phosphatic
+Compositions,quartzose
+Compositions,silicic
+Compositions,sulfate
+Compositions,sulfide
+Compositions,ultramafic
+Envionment,abyssal
+Envionment,aeolian
+Envionment,alluvial
+Envionment,anoxic
+Envionment,arc
+Envionment,arid
+Envionment,backreef
+Envionment,barrier
+Envionment,basin
+Envionment,bathyal
+Envionment,beach
+Envionment,bog
+Envionment,cave
+Envionment,channel
+Envionment,coast
+Envionment,collisional
+Envionment,continental
+Envionment,crustal
+Envionment,delta
+Envionment,deltaic
+Envionment,distributary
+Envionment,dunefield
+Envionment,englacial
+Envionment,epicontinental
+Envionment,estuarine
+Envionment,estuary
+Envionment,flat
+Envionment,floodplain
+Envionment,forearc
+Envionment,foreland
+Envionment,forereef
+Envionment,gibber
+Envionment,glacial
+Envionment,hadal
+Envionment,highland
+Envionment,hillslope
+Envionment,hinterland
+Envionment,hypabyssal
+Envionment,interdistributary
+Envionment,interior
+Envionment,intertidal
+Envionment,intraplate
+Envionment,lacustrine
+Envionment,lagoon
+Envionment,mantle
+Envionment,margin
+Envionment,marine
+Envionment,meander
+Envionment,metamorphic
+Envionment,neritic
+Envionment,oceanic
+Envionment,passive
+Envionment,pediment
+Envionment,piedmont
+Envionment,plain
+Envionment,platform
+Envionment,playa
+Envionment,polar
+Envionment,prodelta
+Envionment,proglacial
+Envionment,reef
+Envionment,rift
+Envionment,river
+Envionment,rocky
+Envionment,sabkha
+Envionment,sand
+Envionment,seamount
+Envionment,shelf
+Envionment,shoreline
+Envionment,slope
+Envionment,spreading
+Envionment,strandplain
+Envionment,subaerial
+Envionment,subaqueous
+Envionment,subduction
+Envionment,subglacial
+Envionment,submarine
+Envionment,supraglacial
+Envionment,supratidal
+Envionment,surface
+Envionment,swamp
+Envionment,temperate
+Envionment,terminus
+Envionment,terrane
+Envionment,terrestrial
+Envionment,tidal
+Envionment,transform
+Envionment,transitional
+Envionment,trench
+Envionment,tropical
+Envionment,volcanic
+Envionment,wetland
+Events,accretion
+Events,accumulation
+Events,alteration
+Events,breakup
+Events,collision
+Events,creep
+Events,crystallisation
+Events,deformation
+Events,depletion
+Events,deposition
+Events,diagenetic
+Events,diffusion
+Events,dislocation
+Events,dissolution
+Events,effusive
+Events,erosion
+Events,eruption
+Events,eruption
+Events,excavation
+Events,extinction
+Events,fall
+Events,faulting
+Events,flow
+Events,folding
+Events,fracturing
+Events,grading
+Events,haloclasty
+Events,hydration
+Events,hydrolysis
+Events,impact
+Events,intrusion
+Events,melting
+Events,metamorphism
+Events,microfracturing
+Events,obduction
+Events,oxidation
+Events,precipitation
+Events,reversal
+Events,rifting
+Events,rise
+Events,shattering
+Events,shearing
+Events,speciation
+Events,spreading
+Events,subduction
+Events,transport
+Events,twinning
+Events,wander
+Events,wasting
+Events,weathering
+Events,wind
+Fault types,angle
+Fault types,detachment
+Fault types,dextral
+Fault types,extraction
+Fault types,fault
+Fault types,horizontal
+Fault types,normal
+Fault types,oblique
+Fault types,reverse
+Fault types,scissor
+Fault types,sinistral
+Fault types,strike
+Fault types,thrust
+Fault types,wrench
+Foliation type,banding
+Foliation type,bedding
+Foliation type,cleavage
+Foliation type,comb
+Foliation type,compound
+Foliation type,continuous
+Foliation type,crenulation
+Foliation type,crude
+Foliation type,cryptomicrobial
+Foliation type,cumulate
+Foliation type,differentiation
+Foliation type,discrete
+Foliation type,disjunct
+Foliation type,disjunctive
+Foliation type,domainal
+Foliation type,eutaxitic
+Foliation type,fabric
+Foliation type,fissile
+Foliation type,flaser
+Foliation type,flow
+Foliation type,foliation
+Foliation type,gneissic
+Foliation type,igneous
+Foliation type,imbricated
+Foliation type,impersistent
+Foliation type,irregular
+Foliation type,joints
+Foliation type,lamination
+Foliation type,lamination
+Foliation type,layering
+Foliation type,metamorphic
+Foliation type,mineralogical
+Foliation type,mylonite
+Foliation type,mylonitic
+Foliation type,parallel
+Foliation type,phyllitic
+Foliation type,planar
+Foliation type,primary
+Foliation type,protomylonite
+Foliation type,rhythmic
+Foliation type,rough
+Foliation type,scaly
+Foliation type,schistosity
+Foliation type,sedimentary
+Foliation type,slaty
+Foliation type,solution
+Foliation type,spaced
+Foliation type,stromatic
+Foliation type,stromatolitic
+Foliation type,tectonic
+Foliation type,transposed
+Foliation type,ultramylonite
+Foliation type,undulating
+Foliation type,vague
+Foliation type,varve
+Genetic,anthropogenic
+Genetic,biological
+Genetic,cataclastic
+Genetic,chemical
+Genetic,clastic
+Genetic,composite
+Genetic,contact
+Genetic,deformation
+Genetic,diagenetic
+Genetic,dislocation
+Genetic,ductile
+Genetic,extrusive
+Genetic,hydrothermal
+Genetic,hypabyssal
+Genetic,igneous
+Genetic,impact
+Genetic,intrusive
+Genetic,metamorphic
+Genetic,metaplutonic
+Genetic,metasedimentary
+Genetic,metasomatic
+Genetic,metavolcanic
+Genetic,plutonic
+Genetic,regional
+Genetic,sedimentary
+Genetic,subaerial
+Genetic,subaqueous
+Genetic,volcaniclastic
+Genetic,weathering
+Geometry,arch
+Geometry,arcuate
+Geometry,basin
+Geometry,blanket
+Geometry,blob
+Geometry,block
+Geometry,boudin
+Geometry,channel
+Geometry,circular
+Geometry,column
+Geometry,cone
+Geometry,conical
+Geometry,cupola
+Geometry,cylinder
+Geometry,diapir
+Geometry,dike
+Geometry,dimensional
+Geometry,disc
+Geometry,discoid
+Geometry,discus
+Geometry,dome
+Geometry,ductolith
+Geometry,ellipsoid
+Geometry,elongate
+Geometry,equant
+Geometry,ethmolith
+Geometry,fan
+Geometry,graben
+Geometry,hemispheroid
+Geometry,irregular
+Geometry,laccolith
+Geometry,layer
+Geometry,lens
+Geometry,lenticular
+Geometry,longitudinal
+Geometry,lopolith
+Geometry,mound
+Geometry,pancake
+Geometry,phacolith
+Geometry,pillow
+Geometry,pipe
+Geometry,planar
+Geometry,pod
+Geometry,polygonal
+Geometry,prism
+Geometry,profile
+Geometry,ribbon
+Geometry,ring
+Geometry,rod
+Geometry,segment
+Geometry,sheet
+Geometry,sigmoid
+Geometry,sigmoidal
+Geometry,sill
+Geometry,sphenolith
+Geometry,spheroid
+Geometry,square
+Geometry,tablet
+Geometry,tabular
+Geometry,tear
+Geometry,trough
+Geometry,vein
+Geometry,wedge
+Lineation,augen
+Lineation,crenulation
+Lineation,fibre
+Lineation,flow
+Lineation,igneous
+Lineation,intersection
+Lineation,lineation
+Lineation,particle
+Lineation,pencil
+Lineation,rod
+Lineation,rodding
+Lineation,shape
+Lineation,slickenline
+Lineation,stretching
+Lineation,tectonic
+Lineation,vesicle
+Metamorphic facies,amphibolite
+Metamorphic facies,contact
+Metamorphic facies,eclogite
+Metamorphic facies,epidote
+Metamorphic facies,glaucophane
+Metamorphic facies,granulite
+Metamorphic facies,greenschist
+Metamorphic facies,high
+Metamorphic facies,hornfels
+Metamorphic facies,low
+Metamorphic facies,lower
+Metamorphic facies,medium
+Metamorphic facies,pyroxene
+Metamorphic facies,sanidinite
+Metamorphic facies,subgreenschist
+Metamorphic facies,upper
+Metamorphic facies,zeolite
+Particle shapes,angular
+Particle shapes,anhedral
+Particle shapes,anisotropic
+Particle shapes,crystalline
+Particle shapes,diffuse
+Particle shapes,equant
+Particle shapes,euhedral
+Particle shapes,formed
+Particle shapes,isotropic
+Particle shapes,resorbed
+Particle shapes,rounded
+Particle shapes,shape
+Particle shapes,subangular
+Particle shapes,subhedral
+Particle shapes,subrounded
+Particle types,aggregate
+Particle types,amygdule
+Particle types,autoclast
+Particle types,axiolite
+Particle types,bioclast
+Particle types,biogenic
+Particle types,bleb
+Particle types,cavity
+Particle types,clast
+Particle types,coated
+Particle types,cognate
+Particle types,concretionary
+Particle types,coprolite
+Particle types,crystal
+Particle types,crystalline
+Particle types,crystallite
+Particle types,epiclast
+Particle types,fecal
+Particle types,fenestra
+Particle types,fiamme
+Particle types,fossil
+Particle types,fragment
+Particle types,glomerocryst
+Particle types,granular
+Particle types,holoblast
+Particle types,hydroclast
+Particle types,igneous
+Particle types,inclusion
+Particle types,intraclast
+Particle types,intrusive
+Particle types,lithic
+Particle types,lithophysae
+Particle types,miarolitic
+Particle types,microlite
+Particle types,nodule
+Particle types,oncoid
+Particle types,ooid
+Particle types,orb
+Particle types,paleoblast
+Particle types,paramorph
+Particle types,peloid
+Particle types,pisoid
+Particle types,pseudomorph
+Particle types,pyroclast
+Particle types,pyroclastic
+Particle types,schlieren
+Particle types,shard
+Particle types,solid
+Particle types,space
+Particle types,spherule
+Particle types,syngenetic
+Particle types,variole
+Particle types,vein
+Particle types,ventrifact
+Particle types,vesicle
+Particle types,vug
+Particle types,xenocryst
+Rock types,acidic
+Rock types,alkali
+Rock types,amphibolite
+Rock types,andesite
+Rock types,anorthosite
+Rock types,anorthositic rock
+Rock types,anthracite
+Rock types,aphanite
+Rock types,aplite
+Rock types,arenite
+Rock types,ash
+Rock types,basalt
+Rock types,basanite
+Rock types,basic
+Rock types,bauxite
+Rock types,biogenic
+Rock types,bituminous
+Rock types,boninite
+Rock types,boulder
+Rock types,boundstone
+Rock types,breccia
+Rock types,calcareous
+Rock types,carbonate
+Rock types,carbonatite
+Rock types,cataclasite
+Rock types,chalk
+Rock types,chemical
+Rock types,clastic
+Rock types,clay
+Rock types,claystone
+Rock types,coal
+Rock types,cobble
+Rock types,composite
+Rock types,compound
+Rock types,conglomerate
+Rock types,crystalline
+Rock types,dacite
+Rock types,diamictite
+Rock types,diamicton
+Rock types,diorite
+Rock types,dioritic
+Rock types,dioritoid
+Rock types,doleritic
+Rock types,dolomite
+Rock types,dolomitic
+Rock types,duricrust
+Rock types,eclogite
+Rock types,evaporite
+Rock types,exotic
+Rock types,fault
+Rock types,foid
+Rock types,foidite
+Rock types,foiditoid
+Rock types,foidolite
+Rock types,foliated
+Rock types,fragmental
+Rock types,framestone
+Rock types,gabbro
+Rock types,gabbroid
+Rock types,generic
+Rock types,glass
+Rock types,glassy
+Rock types,glaucophane
+Rock types,glaukophanschiefer
+Rock types,gneiss
+Rock types,gouge
+Rock types,grainstone
+Rock types,granite
+Rock types,granitoid
+Rock types,granodiorite
+Rock types,granofels
+Rock types,granulite
+Rock types,gravel
+Rock types,gypsum
+Rock types,hornblendite
+Rock types,hornfels
+Rock types,hybrid
+Rock types,igneous
+Rock types,impact
+Rock types,impure
+Rock types,intermediate
+Rock types,iron
+Rock types,kalsilitic
+Rock types,kohle
+Rock types,komatiitic
+Rock types,lapillistone
+Rock types,latite
+Rock types,latitic
+Rock types,lignite
+Rock types,limestone
+Rock types,magnesian
+Rock types,marble
+Rock types,metamorphic
+Rock types,metasomatic
+Rock types,mica
+Rock types,migmatite
+Rock types,monzodiorite
+Rock types,monzogabbro
+Rock types,monzogranite
+Rock types,monzonite
+Rock types,mud
+Rock types,mudstone
+Rock types,mylonitic
+Rock types,ooze
+Rock types,organic
+Rock types,orthogneiss
+Rock types,packstone
+Rock types,paragneiss
+Rock types,peat
+Rock types,pebble
+Rock types,pegmatite
+Rock types,peridotite
+Rock types,phaneritic
+Rock types,phonolite
+Rock types,phonolitic
+Rock types,phonolitoid
+Rock types,phosphate
+Rock types,phosphorite
+Rock types,phyllite
+Rock types,phyllonite
+Rock types,piedra
+Rock types,porphyry
+Rock types,pure
+Rock types,pyroclastic
+Rock types,pyroxenite
+Rock types,quartzite
+Rock types,residual
+Rock types,rhyolite
+Rock types,rhyolitoid
+Rock types,rock
+Rock types,salt
+Rock types,sand
+Rock types,sandstone
+Rock types,sapropel
+Rock types,schist
+Rock types,sediment
+Rock types,sedimentary
+Rock types,serpentinite
+Rock types,shale
+Rock types,silicate
+Rock types,siliceous
+Rock types,silt
+Rock types,siltstone
+Rock types,skarn
+Rock types,slate
+Rock types,spilite
+Rock types,syenite
+Rock types,syenitic
+Rock types,syenitoid
+Rock types,syenogranite
+Rock types,tephra
+Rock types,tephrite
+Rock types,tephritic
+Rock types,tephritoid
+Rock types,tholeiitic
+Rock types,tonalite
+Rock types,trachyte
+Rock types,trachytic
+Rock types,trachytoid
+Rock types,travertine
+Rock types,tuff
+Rock types,tuffit
+Rock types,tuffite
+Rock types,ultrabasic
+Rock types,ultramafic
+Rock types,unconsolidated
+Rock types,wacke
+Commodities,agate
+Commodities,aggregate
+Commodities,alumina
+Commodities,aluminium
+Commodities,aluminosilicate
+Commodities,alunite
+Commodities,amazonite
+Commodities,amber
+Commodities,amethyst
+Commodities,andalusite
+Commodities,anhydrite
+Commodities,anthophyllite
+Commodities,anthracite
+Commodities,antimony
+Commodities,apatite
+Commodities,aquamarine
+Commodities,arsenic
+Commodities,asbestos
+Commodities,asphalt
+Commodities,barium
+Commodities,baryte
+Commodities,basalt
+Commodities,bauxite
+Commodities,bentonite
+Commodities,beryl
+Commodities,beryllium
+Commodities,bismuth
+Commodities,borate
+Commodities,boron
+Commodities,bromine
+Commodities,cadmium
+Commodities,calcite
+Commodities,carnallite
+Commodities,carnelian
+Commodities,cassiterite
+Commodities,cerium
+Commodities,cesium
+Commodities,chalcedony
+Commodities,chert
+Commodities,chlorite
+Commodities,chrome
+Commodities,chromite
+Commodities,chromium
+Commodities,chrysoberyl
+Commodities,chrysoprase
+Commodities,chrysotile
+Commodities,citrine
+Commodities,clay
+Commodities,clay
+Commodities,coal
+Commodities,cobalt
+Commodities,copper
+Commodities,cordierite
+Commodities,corundum
+Commodities,crocidolite
+Commodities,cryolite
+Commodities,diamond
+Commodities,diatomite
+Commodities,dioptase
+Commodities,dumortierite
+Commodities,dysprosium
+Commodities,emerald
+Commodities,epsomite
+Commodities,erbium
+Commodities,euclase
+Commodities,europium
+Commodities,evaporite
+Commodities,feldspar
+Commodities,fluorine
+Commodities,fluorite
+Commodities,gadolinium
+Commodities,gallium
+Commodities,garnet
+Commodities,gas
+Commodities,gemstone
+Commodities,germanium
+Commodities,glauconite
+Commodities,gold
+Commodities,granite
+Commodities,graphite
+Commodities,greenstone
+Commodities,gypsum
+Commodities,hafnium
+Commodities,halloysite
+Commodities,heliodor
+Commodities,hematite
+Commodities,holmium
+Commodities,ilmenite
+Commodities,indium
+Commodities,iodine
+Commodities,iridium
+Commodities,iron
+Commodities,jade
+Commodities,jarosite
+Commodities,kaolin
+Commodities,kornerupine
+Commodities,kyanite
+Commodities,lanthanum
+Commodities,laterite
+Commodities,lazulite
+Commodities,lead
+Commodities,leucoxene
+Commodities,lime
+Commodities,limestone
+Commodities,lithium
+Commodities,lutetium
+Commodities,magnesia
+Commodities,magnesite
+Commodities,magnesium
+Commodities,magnetite
+Commodities,malachite
+Commodities,manganese
+Commodities,marble
+Commodities,mercury
+Commodities,metal
+Commodities,metal
+Commodities,metalloid
+Commodities,mica
+Commodities,molybdenite
+Commodities,molybdenum
+Commodities,monazite
+Commodities,moonstone
+Commodities,morganite
+Commodities,moss agate
+Commodities,neodymium
+Commodities,nickel
+Commodities,niobium
+Commodities,nitrate
+Commodities,obsidian
+Commodities,ochre
+Commodities,oil
+Commodities,olivine
+Commodities,onyx
+Commodities,opal
+Commodities,osmium
+Commodities,palladium
+Commodities,palygorskite
+Commodities,peat
+Commodities,perlite
+Commodities,phenakite
+Commodities,phosphorous
+Commodities,platinum
+Commodities,potash
+Commodities,potassium
+Commodities,pozzolan
+Commodities,praseodymium
+Commodities,prehnite
+Commodities,promethium
+Commodities,pumice
+Commodities,pyrite
+Commodities,pyrophyllite
+Commodities,quartz
+Commodities,radium
+Commodities,rhenium
+Commodities,rhodium
+Commodities,rhodonite
+Commodities,riprap
+Commodities,rubidium
+Commodities,ruby
+Commodities,ruthenium
+Commodities,rutile
+Commodities,salt
+Commodities,samarium
+Commodities,sand
+Commodities,sandstone
+Commodities,saponite
+Commodities,sapphire
+Commodities,sapphirine
+Commodities,scandium
+Commodities,scapolite
+Commodities,selenium
+Commodities,sepiolite
+Commodities,sericite
+Commodities,serpentine
+Commodities,shell grit
+Commodities,silica
+Commodities,silicon
+Commodities,sillimanite
+Commodities,silver
+Commodities,sinhalite
+Commodities,slate
+Commodities,soda ash
+Commodities,sodalite
+Commodities,spectrolite
+Commodities,spinel
+Commodities,spodumene
+Commodities,spongolite
+Commodities,staurolite
+Commodities,strontianite
+Commodities,strontium
+Commodities,sulphur
+Commodities,sylvite
+Commodities,talc
+Commodities,tantalum
+Commodities,tanzanite
+Commodities,tar sand
+Commodities,tellurium
+Commodities,terbium
+Commodities,thallium
+Commodities,thenardite
+Commodities,thorium
+Commodities,thulium
+Commodities,tin
+Commodities,titanium
+Commodities,topaz
+Commodities,tourmaline
+Commodities,tsavorite
+Commodities,tungsten
+Commodities,turquoise
+Commodities,uranium
+Commodities,vanadium
+Commodities,variscite
+Commodities,vermiculite
+Commodities,vesuvianite
+Commodities,wollastonite
+Commodities,ytterbium
+Commodities,yttrium
+Commodities,zeolite
+Commodities,zinc
+Commodities,zircon
+Commodities,zirconia
+Commodities,zirconium
+Envionmental impact,acid
+Envionmental impact,collapse
+Envionmental impact,discharge
+Envionmental impact,disturbance
+Envionmental impact,drainage
+Envionmental impact,dust
+Envionmental impact,emission
+Envionmental impact,erosion
+Envionmental impact,failure
+Envionmental impact,gaseous
+Envionmental impact,habitat
+Envionmental impact,health
+Envionmental impact,heat
+Envionmental impact,instability
+Envionmental impact,landslide
+Envionmental impact,liquid
+Envionmental impact,mineral
+Envionmental impact,noise
+Envionmental impact,odour
+Envionmental impact,particulate
+Envionmental impact,physical
+Envionmental impact,radiation
+Envionmental impact,radioactive
+Envionmental impact,runoff 
+Envionmental impact,sedimentation
+Envionmental impact,subsidence
+Envionmental impact,subsurface
+Envionmental impact,surface
+Envionmental impact,vibration
+Envionmental impact,water
+Exploration activity,assessment
+Exploration activity,auger
+Exploration activity,beneficiation
+Exploration activity,core
+Exploration activity,detailed
+Exploration activity,drilling
+Exploration activity,estimate
+Exploration activity,evaluation
+Exploration activity,excavation
+Exploration activity,feasibility
+Exploration activity,geochemistry
+Exploration activity,geology
+Exploration activity,geophysics
+Exploration activity,interpretation
+Exploration activity,mineral
+Exploration activity,percussion
+Exploration activity,pilot
+Exploration activity,reconnaissance
+Exploration activity,regional
+Exploration activity,resource
+Exploration activity,sampling
+Exploration activity,subsurface
+Exploration activity,surface
+Exploration activity,systematic
+Exploration activity,test
