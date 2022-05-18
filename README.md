@@ -5,7 +5,7 @@ Language models are the foundation for the predictive text tools that billions o
 
 
 ## Geoscience language modelling methods and evaluation
-Christopher J.M. Lawley, Stefania Raimondo, Tianyi Chen, Lindsay Brin, Anton Zakharov, Daniel Kur, Jenny Hui, Glen Newton, Sari L. Burgoyne, Geneviève Marquis, 2022, Geoscience language models and their intrinsic evaluation, Applied Computing and Geosciences, Volume 14, https://doi.org/10.1016/j.acags.2022.100084.
+Christopher J.M. Lawley, Stefania Raimondo, Tianyi Chen, Lindsay Brin, Anton Zakharov, Daniel Kur, Jenny Hui, Glen Newton, Sari L. Burgoyne, Geneviève Marquis, 2022, Geoscience language models and their intrinsic evaluation, Applied Computing and Geosciences, Volume 14, https://doi.org/10.1016/j.acags.2022.100084
 
 
 ## Geoscience language models and corpus
