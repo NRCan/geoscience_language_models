@@ -86,7 +86,7 @@ where task is set to train on either the MULTICLASS or PAIRING keyword predictio
 To use weights and biases (https://wandb.ai) visualizations, set the correct api keys and dir in `scripts/run_bert_evaluation.py` before finetuning. Refer to the wandb documentaion for more details.
 
 #### Training the GloVe models with sklearn
-Glove keyword prediction models can be trained with sklearn using the `run_keyword_prediction_classic()` funtion in `/nrcan_p2/evaluation/keyword_prediction.py`.
+Glove keyword prediction models can be trained with sklearn using the `run_keyword_prediction_classic()` function in `/nrcan_p2/evaluation/keyword_prediction.py`.
 
 To launch training, run one of the following scripts:
 
