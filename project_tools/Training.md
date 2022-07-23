@@ -10,7 +10,7 @@ You can train 3 types of embedddings models:
 ## GloVe
 
 ### Local training
-To train a GloVe model, run the follwing command after setting the correct dataset and training parameters in the script (see the script for more details):
+To train a GloVe model, run the following command after setting the correct dataset and training parameters in the script (see the script for more details):
 ```
 bash scripts/train_glove_model.sh
 ```
