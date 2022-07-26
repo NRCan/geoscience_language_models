@@ -35,7 +35,7 @@ def run_train(
     # Load pre-trained Glove embeddings
     original_embeddings = glove2dict(original_embeddings_filename)
 
-    mittens_model = Mittens(n=config.VECTOR_SIZE, max_iter=max_iter)
+    mittens_model = Mittens(n=vector_size, max_iter=max_iter)
 
     new_embeddings = mittens_model.fit(M, vocab=vocabulary, initial_embedding_dict=original_embeddings)
 
