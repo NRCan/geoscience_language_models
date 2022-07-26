@@ -40,6 +40,7 @@ python embeddings/mittens_scripts/run_mittens.py
     --ORIGINAL_EMBEDDINGS_PATH ${ORIGINAL_EMBEDDINGS_PATH}
     --MAX_ITER ${MAX_ITER}
     --VECTOR_SIZE ${VECTOR_SIZE}
+    --MITTENS_FILENAME ${MITTENS_FILENAME}
 ```
 
 At minimum, you will probably need to change the following parameters:
