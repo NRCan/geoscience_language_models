@@ -7,7 +7,7 @@
 # (for debugging)
 N_FILES="-1"
 
-# Set below accorind to the provided dataset name
+# Set below according to the provided dataset name
 INPUT_DIRS=
 OUTPUT_DIR=
 PARTIAL_OUTPUT_DIR=
