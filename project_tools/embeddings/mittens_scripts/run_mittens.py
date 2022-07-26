@@ -53,5 +53,5 @@ run_train(
     max_iter=args.MAX_ITER,
     original_embeddings_filename=args.ORIGINAL_EMBEDDINGS_PATH,
     vector_size=args.VECTOR_SIZE,
-    mittens_filename=args.MITTENS_FILENAME
+    mittens_filename=MITTENS_FILENAME
 )
