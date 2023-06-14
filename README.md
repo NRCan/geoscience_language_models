@@ -1,7 +1,7 @@
 # Geoscience Language Models
 
 ## Introduction
-Language models are the foundation for the predictive text tools that billions of people in their everyday lives. Although most of these language models are trained on vast digital corpora, they are often missing the specialized vocabulary and underlying concepts that are important to specific scientific sub-domains. Herein we report two new language models that were re-trained using geoscientific text to address that knoweldge gap. The raw and processed text from the GEOSCAN publications database, which were used to generate these new language models are reported in the Geological Survey of Canada Open File 8848 (below). Language model performance and validation are discussed separately in Lawley et al. (2022). The supporting datasets and preferred language models can be used and expanded on in the future to support a range of down-stream natural language processing tasks (e.g., keyword prediction, document similarity, and recommender systems).
+Language models are the foundation for the predictive text tools that billions of people in their everyday lives. Although most of these language models are trained on vast digital corpora, they are often missing the specialized vocabulary and underlying concepts that are important to specific scientific sub-domains. Herein we report two new language models that were re-trained using geoscientific text to address that knoweldge gap. The raw and processed text from the GEOSCAN publications database, which were used to generate these new language models are reported in the Geological Survey of Canada Open File 8848 (below). Language model performance and validation are discussed separately in Lawley et al. (2022). More recently, the language model has been applied to prospectivity modelling and geological mapping applications in Lawley et al. (2023).
 
 
 ## Geoscience language modelling methods and evaluation
@@ -10,6 +10,10 @@ Christopher J.M. Lawley, Stefania Raimondo, Tianyi Chen, Lindsay Brin, Anton Zak
 
 ## Geoscience language models and corpus
 Raimondo, S., Chen, T., Zakharov, A., Brin, L., Kur, D., Hui, J., Burgoyne, S., Newton, G., Lawley, C.J.M., 2022, Datasets to support geoscience language models, Geological Survey of Canada, Open File 8848, 5 pages, https://doi.org/10.4095/329265
+
+
+## Language model applications
+Lawley, C.J.M., Gadd, M.G., Parsa, M. et al. Applications of Natural Language Processing to Geoscience Text Data and Prospectivity Modeling. Nat Resour Res (2023). https://doi.org/10.1007/s11053-023-10216-1
 
 
 ## Text data
